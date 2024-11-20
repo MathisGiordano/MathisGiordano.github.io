@@ -3,7 +3,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+/* Style pour les titres <h1> */
 h1 {
     color: #337;
+    text-align: center;
+}
+
+/* Centrer le texte des paragraphes */
+p {
     text-align: center;
 }
